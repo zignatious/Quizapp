@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizapp</string>
+    <string name="f">Falso</string>
+    <string name="t">Cierto</string>
+</resources>

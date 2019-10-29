@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizapp</string>
+    <string name="t">True</string>
+    <string name="f">False</string>
+    <string name="play_again">play again?</string>
+    <string name="score">score:</string>
+</resources>
